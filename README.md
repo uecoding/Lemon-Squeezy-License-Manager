@@ -1,4 +1,4 @@
-# LemonLicense
+# Simple Lemon Squeezy License Manager
 
 A simple Python module for integrating Lemon Squeezy license management into your applications.
 
